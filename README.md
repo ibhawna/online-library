@@ -1,6 +1,6 @@
 
 
-online book store where you can buy your favorite books. It is built using NodeJS, MongoDB, ReactJS, express and Redux with paypal payment gateway.
+online to buy books. It is made using NodeJS, MongoDB, ReactJS, express and Redux with paypal payment gateway.
 
 
 ![homepage](https://github.com/niteshseram/booksify/blob/main/uploads/homepage.JPG)
